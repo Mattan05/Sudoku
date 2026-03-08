@@ -1,0 +1,16 @@
+# Compiled Java files
+*.class
+
+# Build folders
+.bin/
+build/
+out/
+
+# VS Code
+.vscode/
+
+# Metals
+.metals/
+
+# OS files
+.DS_Store
